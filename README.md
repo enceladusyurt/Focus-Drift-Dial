@@ -1,4 +1,4 @@
-# Focus-Drift-Dial
+# Focus Drift Dial
 
 *A Physical Gauge for Externalizing Attention Drift*
 
@@ -13,7 +13,7 @@ Instead of interrupting users with alerts or notifications, a slowly drifting ga
 - A **wearable sensing device** worn on the wrist, resembling a minimal smart band.
 - A **desktop display device** with a semi-circular gauge, a stepper-motor-driven needle, a status LED, and a button for calibration.
 
-![image.png](attachment:cecf313c-4602-4839-9b14-ac4da156230a:image.png)
+![image.png](Focus%20Drift%20Dial/image.png)
 
 ## 2. Sensor Device (Wearable)
 
@@ -84,7 +84,7 @@ The LED provides subtle feedback (e.g., breathing-like glow when engaged).
 - BLE reception → MCU (display device)
 - Stepper motor + LED actuation
 
-![figure1.jpg](attachment:867f1e74-b1b0-4889-825d-86c587111f4b:figure1.jpg)
+![figure1.jpg](Focus%20Drift%20Dial/figure1.jpg)
 
 ### Figure 2: Data processing pipeline
 
@@ -95,3 +95,5 @@ The LED provides subtle feedback (e.g., breathing-like glow when engaged).
 5. Physical needle movement
 
 This split-processing architecture balances **responsiveness, interpretability, and power efficiency**.
+
+![figure2.jpg](Focus%20Drift%20Dial/figure2.jpg)
