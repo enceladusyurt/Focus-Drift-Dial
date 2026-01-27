@@ -1,0 +1,4 @@
+"#","Reference","Qty","Value","Footprint","DNP"
+"1","LipoBattery1","1","3.7","",""
+"2","U1","1","XIAO ESP32C3","XIAO_ESP32C3:xiao_esp32c3",""
+"3","U2","1","MAX30102","OptoDevice:Maxim_OLGA-14_3.3x5.6mm_P0.8mm",""
